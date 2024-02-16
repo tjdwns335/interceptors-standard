@@ -1,2 +1,2 @@
 # Result
-![image](https://github.com/tjdwns335/interceptors-standard/assets/151831149/f205947c-f94b-467c-92a2-202062167a21)
+![image](https://github.com/tjdwns335/interceptors-standard/assets/151831149/db9329d5-3cba-4c6f-a109-2147e4f79ad0)
